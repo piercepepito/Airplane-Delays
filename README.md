@@ -6,4 +6,4 @@ COVID has finally started slowing down with people going out without any face ma
 Do take note that I only focused on [mainline passenger airlines](https://en.wikipedia.org/wiki/Major_airlines_of_the_United_States). So if any of you here, ride a bomber airplane to your destination, sorry bro, don't even bother reading this.
 
 
-The files can be downloaded through the Bureau of Transporation Statistics [website](https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr). 
+The files can be downloaded through the Bureau of Transporation Statistics [website](https://www.transtats.bts.gov/DL_SelectFields.asp?gnoyr_VQ=FGK&QO_fu146_anzr=b0-gvzr). There are also reference tables that have been used to merge with the main dataset to find the names of their corresponding ID's.
